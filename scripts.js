@@ -14,4 +14,6 @@ const solarSystem = [
 
 //1.console.log(solarSystem[0].ringSystem)
 //2.console.log(solarSystem[7].moons[1])
-solarSystem[1].moons.push("endor")
+//3.solarSystem[1].moons.push("Endor");
+//4.solarSystem.push({name: "Pluto", ringSystem: false, moons: ["Charon"]})
+solarSystem.name = "Earth".push({diameter: "7,917.5 miles"});
